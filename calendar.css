@@ -1,0 +1,41 @@
+th {
+    width: 500px;
+    background-color: lightsteelblue;
+}
+
+td {
+    height: 40px;
+    border-style: solid;
+    border-width: thin;
+    border-color: darkgray;
+    text-align: right;
+    vertical-align: top;
+}
+
+caption {
+    color: darkmagenta;
+    text-transform: uppercase;
+    font-family: Arial;
+    font-weight: 1200;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+    float: right;
+    margin: 5px 15px;
+    object-fit: cover;
+}
+
+.sundays {
+    color: firebrick;
+}
+
+#bookmark {
+    text-align: center;
+}
+
+
+/* table {
+    border-collapse: collapse;
+} */
